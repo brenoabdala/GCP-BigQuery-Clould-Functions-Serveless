@@ -1,0 +1,6 @@
+functions-framework==3.5.0
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pandas
+pyarrow
+db-dtypes
