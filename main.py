@@ -55,7 +55,6 @@ def main():
 # main()
 @functions_framework.http
 def hello_get(request):
-    """Entry point da Cloud Function"""
     try:
         processamento = main()
         return {
